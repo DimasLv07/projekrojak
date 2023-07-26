@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+* {
+    font-family: 'SF Pro Display', sans-serif;
+}
+
+.ops {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mts {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.custom-container {
+    margin-left: 176px;
+    margin-right: 176px;
+    margin-top: 152px;
+}
+
+.searchpage-container {
+    margin-left: 97px;
+    margin-right: 97px;
+    margin-top: 136px;
+}
+
+.caripage-container {
+    margin-left: 202px;
+    margin-right: 98px;
+    margin-top: 150px;
+}
